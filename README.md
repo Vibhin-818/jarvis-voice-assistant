@@ -1,4 +1,4 @@
-# JARVIS â€” Desktop Voice Assistant
+# JARVIS - Desktop Voice Assistant
 
 A Python desktop assistant controlled entirely by voice. It listens for a command, speaks the response back, and performs the action locally.
 
